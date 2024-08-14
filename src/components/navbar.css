@@ -1,0 +1,7 @@
+.freenav{
+    position: fixed;
+    width: 100%;
+    background-color: transparent;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+}
